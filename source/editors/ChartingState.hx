@@ -57,7 +57,12 @@ class ChartingState extends MusicBeatState
 		'Alt Animation',
 		'Hey!',
 		'Hurt Note',
-		'Bullet_Note',
+		'Static Note',
+		'Static P1 Note',
+		'Spike Note',
+		'EXE Note',
+		'Ringbox Note',
+		'Ring Note',
 		'GF Sing',
 		'No Animation'
 	];
